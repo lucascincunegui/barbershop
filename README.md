@@ -77,11 +77,3 @@ Este projeto é de código aberto e pode ser modificado conforme necessário.
 
 ---
 📩 **Contato:** Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma *issue* ou enviar uma *pull request*!
-
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
